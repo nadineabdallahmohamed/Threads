@@ -1,6 +1,6 @@
 package my_threads;
 
-public class Simple  implements Runnable{
+public class Threads  implements Runnable{
 	private String threadname;
 	public Simple(String n)
 	{
