@@ -1,7 +1,7 @@
 package  my_threads;
-public class SimpleThread extends Thread {
+public class TryThreads extends Threads {
 	private String threadname;
-	public SimpleThread(String n)
+	public TryThreads(String n)
 	{
 		setThreadname(n);
 		
