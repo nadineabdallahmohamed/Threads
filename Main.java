@@ -1,4 +1,4 @@
-package my_threads;
+package Threads;
 
 public class Main {
 	
