@@ -1,4 +1,4 @@
-package my_threads;
+package Threads;
 
 public class Threads  implements Runnable{
 	private String threadname;
