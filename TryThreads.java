@@ -1,4 +1,4 @@
-package  my_threads;
+package  Threads;
 public class TryThreads extends Threads {
 	private String threadname;
 	public TryThreads(String n)
